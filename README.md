@@ -9,12 +9,12 @@ Para executar o projeto no terminal, digite o seguinte comando:
 mvn spring-boot:run
 
 Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto: 
-http://localhost:8080/api/v1/culturalproduct 
-http://localhost:8080/api/v1/culturalgenre 
-http://localhost:8080/api/v1/company
+<br/>http://localhost:8080/api/v1/culturalproduct 
+<br/>http://localhost:8080/api/v1/culturalgenre 
+<br/>http://localhost:8080/api/v1/company
 
 Swagger disponível em: 
-http://localhost:8080/swagger-ui/
+<br/>http://localhost:8080/swagger-ui/
 
 Console H2: 
-http://localhost:8080/h2-console
+<br/>http://localhost:8080/h2-console
