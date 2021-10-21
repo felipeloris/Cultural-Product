@@ -1,4 +1,4 @@
-# culturalproductapi
+# Produto Cultural 
 Produtos culturais são produtos gerados na indústria cultural, tais como filmes, programas de TV, telenovelas, campeonatos esportivos, shows musicais, programas de rádio, livros, discos/música etc. Esse conceito foi criado na década de 1940 pelos filósofos alemães Max Horkheimer (1895-1973) e Theodor W. Adorno (1903-1969).
 
 Essa solução é composta de um front-end feito em Angular e back-end em Java 11, usando Spring Boot, JPA-Hibernate, H2, Lombok, Mapstruct, JUnit e Swagger.
