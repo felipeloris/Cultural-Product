@@ -6,7 +6,7 @@ Essa solução foi feita para fazer o gerenciamento de produtos culturais dos ti
 Usado o editor 'Intellj IDEA Community Edition'.
 
 Para executar o projeto no terminal, digite o seguinte comando: 
-mvn spring-boot:run
+<br/>mvn spring-boot:run
 
 Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto: 
 <br/>http://localhost:8080/api/v1/culturalproduct 
