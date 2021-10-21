@@ -5,10 +5,16 @@ Essa solução foi feita para fazer o gerenciamento de produtos culturais dos ti
 
 Usado o editor 'Intellj IDEA Community Edition'.
 
-Para executar o projeto no terminal, digite o seguinte comando: mvn spring-boot:run
+Para executar o projeto no terminal, digite o seguinte comando: 
+mvn spring-boot:run
 
-Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto: http://localhost:8080/api/v1/culturalproduct http://localhost:8080/api/v1/culturalgenre http://localhost:8080/api/v1/company
+Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto: 
+http://localhost:8080/api/v1/culturalproduct 
+http://localhost:8080/api/v1/culturalgenre 
+http://localhost:8080/api/v1/company
 
-Swagger disponível em: http://localhost:8080/swagger-ui/
+Swagger disponível em: 
+http://localhost:8080/swagger-ui/
 
-Console H2: http://localhost:8080/h2-console
+Console H2: 
+http://localhost:8080/h2-console
